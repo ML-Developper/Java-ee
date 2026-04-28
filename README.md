@@ -16,7 +16,7 @@ Il démontre la mise en place d'une architecture web avec des technologies comme
 ---
 
 ## 📸 Aperçu du projet
-![Aperçu](<img width="1895" height="830" alt="Screenshot From 2026-04-28 15-19-39" src="https://github.com/user-attachments/assets/ecbed429-11ea-40a3-b29a-b1a3e28d9cf8" />)
+![Aperçu](https://github.com/user-attachments/assets/ecbed429-11ea-40a3-b29a-b1a3e28d9cf8)
 
 ---
 
